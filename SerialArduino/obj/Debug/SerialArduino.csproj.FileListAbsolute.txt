@@ -1,0 +1,14 @@
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\bin\Debug\SerialArduino.exe.config
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\bin\Debug\SerialArduino.exe
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\bin\Debug\SerialArduino.pdb
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.csproj.AssemblyReference.cache
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.Form1.resources
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.Properties.Resources.resources
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.csproj.GenerateResource.cache
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.csproj.CoreCompileInputs.cache
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.exe
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.pdb
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\bin\Debug\System.ValueTuple.dll
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\bin\Debug\System.ValueTuple.xml
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.csproj.CopyComplete
+C:\Users\zeemarquez\source\repos\SerialArduino\SerialArduino\obj\Debug\SerialArduino.FormOpenData.resources
